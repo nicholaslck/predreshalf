@@ -1,3 +1,9 @@
+# Taming Reversible Halftoning via Predictive Luminance
+
+url: https://predreshalf.github.io/
+
+---
+
 # Academic Project Page Template
 This is an academic paper project page template.
 
