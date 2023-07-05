@@ -1,6 +1,6 @@
 # Taming Reversible Halftoning via Predictive Luminance
 
-url: https://predreshalf.github.io/
+url: https://nicholaslck.github.io/predreshalf/
 
 ---
 
